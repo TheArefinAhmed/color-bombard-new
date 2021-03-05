@@ -1,0 +1,3116 @@
+fileFormatVersion: 2
+guid: 1ffa4bd5afa19fc4b9e525b8c473b06c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3581537584475581818
+    second: whitelevelash_0
+  - first:
+      213: -4825230238891188785
+    second: whitelevelash_1
+  - first:
+      213: 8132528548015395917
+    second: whitelevelash_2
+  - first:
+      213: -3953643154094466603
+    second: whitelevelash_3
+  - first:
+      213: -1791055638949358934
+    second: whitelevelash_4
+  - first:
+      213: -369631370779587328
+    second: whitelevelash_5
+  - first:
+      213: -678856596944443145
+    second: whitelevelash_6
+  - first:
+      213: 8769283634916741426
+    second: whitelevelash_7
+  - first:
+      213: 4318892476437061134
+    second: whitelevelash_8
+  - first:
+      213: 5890234035274928877
+    second: whitelevelash_9
+  - first:
+      213: -905201268809564893
+    second: whitelevelash_10
+  - first:
+      213: -8762657146041989462
+    second: whitelevelash_11
+  - first:
+      213: 7103262106132509613
+    second: whitelevelash_12
+  - first:
+      213: -5509409006771849182
+    second: whitelevelash_13
+  - first:
+      213: 6362696820145246507
+    second: whitelevelash_14
+  - first:
+      213: -6188821815344593272
+    second: whitelevelash_15
+  - first:
+      213: 6078546970405109021
+    second: whitelevelash_16
+  - first:
+      213: 9163594796423540095
+    second: whitelevelash_17
+  - first:
+      213: 3264444275644450070
+    second: whitelevelash_18
+  - first:
+      213: 7563663173161069114
+    second: whitelevelash_19
+  - first:
+      213: -6936497024068182983
+    second: whitelevelash_20
+  - first:
+      213: -6381420357895048166
+    second: whitelevelash_21
+  - first:
+      213: 3372271110318688476
+    second: whitelevelash_22
+  - first:
+      213: 6075964353424659022
+    second: whitelevelash_23
+  - first:
+      213: -3408902670607439115
+    second: whitelevelash_24
+  - first:
+      213: 4050860401905393298
+    second: whitelevelash_25
+  - first:
+      213: 3496729189346545910
+    second: whitelevelash_26
+  - first:
+      213: 1788416507525369473
+    second: whitelevelash_27
+  - first:
+      213: -5268354454958229471
+    second: whitelevelash_28
+  - first:
+      213: -7017056943184129128
+    second: whitelevelash_29
+  - first:
+      213: 1716734151291397497
+    second: whitelevelash_30
+  - first:
+      213: 3736905809070949039
+    second: whitelevelash_31
+  - first:
+      213: -5185610587961224916
+    second: whitelevelash_32
+  - first:
+      213: 2535098869946631491
+    second: whitelevelash_33
+  - first:
+      213: -1014189095787379353
+    second: whitelevelash_34
+  - first:
+      213: 4316852423090037674
+    second: whitelevelash_35
+  - first:
+      213: -8638035498894793422
+    second: whitelevelash_36
+  - first:
+      213: -2127762808148598820
+    second: whitelevelash_37
+  - first:
+      213: 5053124525716093311
+    second: whitelevelash_38
+  - first:
+      213: -1795344161438307295
+    second: whitelevelash_39
+  - first:
+      213: 3229005611698682382
+    second: whitelevelash_40
+  - first:
+      213: -3012580507772816241
+    second: whitelevelash_41
+  - first:
+      213: 338196059949996441
+    second: whitelevelash_42
+  - first:
+      213: -818827711549167278
+    second: whitelevelash_43
+  - first:
+      213: 3554604451671571251
+    second: whitelevelash_44
+  - first:
+      213: 2513786803188201669
+    second: whitelevelash_45
+  - first:
+      213: -1918334305574552182
+    second: whitelevelash_46
+  - first:
+      213: -3975535200679812843
+    second: whitelevelash_47
+  - first:
+      213: 4860564775204466333
+    second: whitelevelash_48
+  - first:
+      213: 17618260734337202
+    second: whitelevelash_49
+  - first:
+      213: 2015638957175189630
+    second: whitelevelash_50
+  - first:
+      213: -2538942390904567564
+    second: whitelevelash_51
+  - first:
+      213: -3844327774699131408
+    second: whitelevelash_52
+  - first:
+      213: -1211767387293511952
+    second: whitelevelash_53
+  - first:
+      213: 1572137508658487648
+    second: whitelevelash_54
+  - first:
+      213: -9004138497562216685
+    second: whitelevelash_55
+  - first:
+      213: -231550543025697243
+    second: whitelevelash_56
+  - first:
+      213: 6444490225816507127
+    second: whitelevelash_57
+  - first:
+      213: -6210649612985212565
+    second: whitelevelash_58
+  - first:
+      213: 7362049844562143032
+    second: whitelevelash_59
+  - first:
+      213: 6661503862490703403
+    second: whitelevelash_60
+  - first:
+      213: -5120367304342701353
+    second: whitelevelash_61
+  - first:
+      213: 7632008392446294051
+    second: whitelevelash_62
+  - first:
+      213: 7702282336188261527
+    second: whitelevelash_63
+  - first:
+      213: 9086064236987474030
+    second: whitelevelash_64
+  - first:
+      213: -7484408972914860094
+    second: whitelevelash_65
+  - first:
+      213: -8188276305445446429
+    second: whitelevelash_66
+  - first:
+      213: 4653823380244272139
+    second: whitelevelash_67
+  - first:
+      213: -7189287689701543867
+    second: whitelevelash_68
+  - first:
+      213: -6068480991012483500
+    second: whitelevelash_69
+  - first:
+      213: 8779926652626139306
+    second: whitelevelash_70
+  - first:
+      213: 4354092522223526410
+    second: whitelevelash_71
+  - first:
+      213: -5353063067081803658
+    second: whitelevelash_72
+  - first:
+      213: -2337320406977934011
+    second: whitelevelash_73
+  - first:
+      213: -653865241619238745
+    second: whitelevelash_74
+  - first:
+      213: 3094603764705254417
+    second: whitelevelash_75
+  - first:
+      213: -6060063773024699073
+    second: whitelevelash_76
+  - first:
+      213: 4212793768503527764
+    second: whitelevelash_77
+  - first:
+      213: -7603379524538948402
+    second: whitelevelash_78
+  - first:
+      213: -7499661712845945408
+    second: whitelevelash_79
+  - first:
+      213: -6666452418945080940
+    second: whitelevelash_80
+  - first:
+      213: -7673334608850598605
+    second: whitelevelash_81
+  - first:
+      213: -7552612124337768592
+    second: whitelevelash_82
+  - first:
+      213: 8534790932337298343
+    second: whitelevelash_83
+  - first:
+      213: 981216342113645404
+    second: whitelevelash_84
+  - first:
+      213: -7721324627377268658
+    second: whitelevelash_85
+  - first:
+      213: 429772652783792050
+    second: whitelevelash_86
+  - first:
+      213: 3467399544156291987
+    second: whitelevelash_87
+  - first:
+      213: 2975792422972110849
+    second: whitelevelash_88
+  - first:
+      213: 6783296219043961640
+    second: whitelevelash_89
+  - first:
+      213: 1806285819822230346
+    second: whitelevelash_90
+  - first:
+      213: -3272871673740186019
+    second: whitelevelash_91
+  - first:
+      213: 6710118506383594054
+    second: whitelevelash_92
+  - first:
+      213: -5845104527907867362
+    second: whitelevelash_93
+  - first:
+      213: -4850422358552541935
+    second: whitelevelash_94
+  - first:
+      213: -3707447890294745539
+    second: whitelevelash_95
+  - first:
+      213: -5568963535926320576
+    second: whitelevelash_96
+  - first:
+      213: -8105504123023807908
+    second: whitelevelash_97
+  - first:
+      213: 4378810997263770721
+    second: whitelevelash_98
+  - first:
+      213: -7368419257613346654
+    second: whitelevelash_99
+  - first:
+      213: -2796596303705131242
+    second: whitelevelash_100
+  - first:
+      213: 764564635365693529
+    second: whitelevelash_101
+  - first:
+      213: -8706147679410015861
+    second: whitelevelash_102
+  - first:
+      213: 3096517101949360780
+    second: whitelevelash_103
+  - first:
+      213: -7678241729047035979
+    second: whitelevelash_104
+  - first:
+      213: -5204935548349851522
+    second: whitelevelash_105
+  - first:
+      213: 4112460564749667027
+    second: whitelevelash_106
+  - first:
+      213: -5742748662952308332
+    second: whitelevelash_107
+  - first:
+      213: 2552781096394983031
+    second: whitelevelash_108
+  - first:
+      213: 2467255946809197282
+    second: whitelevelash_109
+  - first:
+      213: -8436500931286092051
+    second: whitelevelash_110
+  - first:
+      213: 4282915228737141498
+    second: whitelevelash_111
+  - first:
+      213: 3811529847753193220
+    second: whitelevelash_112
+  - first:
+      213: 7425852705594427786
+    second: whitelevelash_113
+  - first:
+      213: 6500797827793359794
+    second: whitelevelash_114
+  - first:
+      213: -6377705497366348165
+    second: whitelevelash_115
+  - first:
+      213: 8715402923836118573
+    second: whitelevelash_116
+  - first:
+      213: 3569260682503504721
+    second: whitelevelash_117
+  - first:
+      213: -4200192113181453039
+    second: whitelevelash_118
+  - first:
+      213: 6387701972530837538
+    second: whitelevelash_119
+  - first:
+      213: 6703897342314030181
+    second: whitelevelash_120
+  - first:
+      213: -2825323959671021629
+    second: whitelevelash_121
+  - first:
+      213: -4379914042198050746
+    second: whitelevelash_122
+  - first:
+      213: -6392712477905428490
+    second: whitelevelash_123
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: whitelevelash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4075
+        width: 104
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6825f9fea82db4ec0800000000000000
+      internalID: -3581537584475581818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2894
+        width: 104
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdda63b9a6590db0800000000000000
+      internalID: -4825230238891188785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 104
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d445e2e50ab8cd070800000000000000
+      internalID: 8132528548015395917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3602
+        width: 104
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d95b87af76d129c0800000000000000
+      internalID: -3953643154094466603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3131
+        width: 104
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa29673c264e427e0800000000000000
+      internalID: -1791055638949358934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3368
+        width: 104
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d87d60a3ecedaf0800000000000000
+      internalID: -369631370779587328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4305
+        width: 584
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f822b595873496f0800000000000000
+      internalID: -678856596944443145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 3127
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231dbd91101c2b970800000000000000
+      internalID: 8769283634916741426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 4071
+        width: 127
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e532923d9cfeb30800000000000000
+      internalID: 4318892476437061134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 3836
+        width: 127
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de25a74b5a05eb150800000000000000
+      internalID: 5890234035274928877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2889
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d7f52fd341073f0800000000000000
+      internalID: -905201268809564893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 4308
+        width: 126
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa601a190c9c46680800000000000000
+      internalID: -8762657146041989462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3599
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da37586304bd39260800000000000000
+      internalID: 7103262106132509613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3364
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228b60dc2b5aa83b0800000000000000
+      internalID: -5509409006771849182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 4075
+        width: 146
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21d3420c07dc4850800000000000000
+      internalID: 6362696820145246507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_15
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 3840
+        width: 146
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88682364953ec1aa0800000000000000
+      internalID: -6188821815344593272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3131
+        width: 142
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df58993465b5450800000000000000
+      internalID: 6078546970405109021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3368
+        width: 142
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d6172aae0ab2f70800000000000000
+      internalID: 9163594796423540095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 4305
+        width: 142
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61548ded5c2ad4d20800000000000000
+      internalID: 3264444275644450070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2894
+        width: 142
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a28fcf49787f860800000000000000
+      internalID: 7563663173161069114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_20
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3603
+        width: 142
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c9cde25bc9cbf90800000000000000
+      internalID: -6936497024068182983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_21
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 4304
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a143835aef3a077a0800000000000000
+      internalID: -6381420357895048166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_22
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 4071
+        width: 127
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd88bd035b6bcce20800000000000000
+      internalID: 3372271110318688476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_23
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3836
+        width: 127
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4210d93369225450800000000000000
+      internalID: 6075964353424659022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2890
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa209c051521b0d0800000000000000
+      internalID: -3408902670607439115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3364
+        width: 126
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e544ab21c873830800000000000000
+      internalID: 4050860401905393298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3127
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f09db6dba0e68030800000000000000
+      internalID: 3496729189346545910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3599
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e8e71965bb1d810800000000000000
+      internalID: 1788416507525369473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_28
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 3840
+        width: 54
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1283e51498b03e6b0800000000000000
+      internalID: -5268354454958229471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 4075
+        width: 54
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89352dc53e76e9e90800000000000000
+      internalID: -7017056943184129128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_30
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 3368
+        width: 54
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975618d6d9013d710800000000000000
+      internalID: 1716734151291397497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_31
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 4305
+        width: 54
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa284ccc8082cd330800000000000000
+      internalID: 3736905809070949039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_32
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 3131
+        width: 54
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21111115a20908b0800000000000000
+      internalID: -5185610587961224916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_33
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 3602
+        width: 54
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345c9ad9dfa7e2320800000000000000
+      internalID: 2535098869946631491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_34
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2894
+        width: 54
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765c48a0460ece1f0800000000000000
+      internalID: -1014189095787379353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_35
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 3838
+        width: 128
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3e01a386a88eb30800000000000000
+      internalID: 4316852423090037674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_36
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 4071
+        width: 127
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2356923ea788f1880800000000000000
+      internalID: -8638035498894793422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_37
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3599
+        width: 127
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfd306dffaa872e0800000000000000
+      internalID: -2127762808148598820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_38
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3129
+        width: 127
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f793f19cbfd402640800000000000000
+      internalID: 5053124525716093311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_39
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2889
+        width: 138
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ce5ef4ff7a517e0800000000000000
+      internalID: -1795344161438307295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_40
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3364
+        width: 143
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0afa0fee7bbfcc20800000000000000
+      internalID: 3229005611698682382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_41
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2896
+        width: 240
+        height: 1590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f847fe05df92136d0800000000000000
+      internalID: -3012580507772816241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2659
+        width: 104
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99991c1568381b400800000000000000
+      internalID: 338196059949996441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2653
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259add0e880f2a4f0800000000000000
+      internalID: -818827711549167278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_44
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2659
+        width: 142
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bf7ea6aed745130800000000000000
+      internalID: 3554604451671571251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_45
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2653
+        width: 126
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8f81567c3c2e220800000000000000
+      internalID: 2513786803188201669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_46
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2659
+        width: 54
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d78c3ec15b065e0800000000000000
+      internalID: -1918334305574552182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_47
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2659
+        width: 140
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5112b6b5ccf04d8c0800000000000000
+      internalID: -3975535200679812843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_48
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2187
+        width: 159
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ea6d129e1347340800000000000000
+      internalID: 4860564775204466333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2422
+        width: 104
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b061acf6b79e3000800000000000000
+      internalID: 17618260734337202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2416
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70bdd5c3fcf8fb10800000000000000
+      internalID: 2015638957175189630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_51
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2422
+        width: 142
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8c3fce85dd3ccd0800000000000000
+      internalID: -2538942390904567564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2416
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fde3ecc14436aac0800000000000000
+      internalID: -3844327774699131408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_53
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2422
+        width: 54
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe87f14bffee2fe0800000000000000
+      internalID: -1211767387293511952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_54
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2422
+        width: 69
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06128ad0cba51d510800000000000000
+      internalID: 1572137508658487648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2186
+        width: 104
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31772601ebfda0380800000000000000
+      internalID: -9004138497562216685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_56
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2182
+        width: 127
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e8767020e59ccf0800000000000000
+      internalID: -231550543025697243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_57
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2186
+        width: 142
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2154c47bd6f6950800000000000000
+      internalID: 6444490225816507127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_58
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2182
+        width: 126
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61699915175fc9a0800000000000000
+      internalID: -6210649612985212565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_59
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2186
+        width: 54
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837a8dbe3514b2660800000000000000
+      internalID: 7362049844562143032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_60
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2186
+        width: 69
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26a6a1087a627c50800000000000000
+      internalID: 6661503862490703403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_61
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2186
+        width: 68
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daf029c01dc0f8b0800000000000000
+      internalID: -5120367304342701353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1949
+        width: 104
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328bf8262375ae960800000000000000
+      internalID: 7632008392446294051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_63
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1947
+        width: 126
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7946440f9f004ea60800000000000000
+      internalID: 7702282336188261527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_64
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1949
+        width: 142
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60e404984f281e70800000000000000
+      internalID: 9086064236987474030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_65
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1947
+        width: 127
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfd9a771b9022890800000000000000
+      internalID: -7484408972914860094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_66
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1950
+        width: 54
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec1d2365166d5e80800000000000000
+      internalID: -8188276305445446429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_67
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1949
+        width: 69
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b041ed215b3b59040800000000000000
+      internalID: 4653823380244272139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_68
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1949
+        width: 159
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540304bcfe48a3c90800000000000000
+      internalID: -7189287689701543867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1714
+        width: 104
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e8d7cd0bc68cba0800000000000000
+      internalID: -6068480991012483500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_70
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1710
+        width: 126
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8f3c3c5c098d970800000000000000
+      internalID: 8779926652626139306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_71
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1714
+        width: 142
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02615a7418dc6c30800000000000000
+      internalID: 4354092522223526410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_72
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1710
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6787352908916b5b0800000000000000
+      internalID: -5353063067081803658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_73
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1714
+        width: 54
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d0fc7397b209fd0800000000000000
+      internalID: -2337320406977934011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_74
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1714
+        width: 69
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a07f4ee6010de6f0800000000000000
+      internalID: -653865241619238745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_75
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1710
+        width: 159
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cd7d36abd32fa20800000000000000
+      internalID: 3094603764705254417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 104
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d36a42b1456eba0800000000000000
+      internalID: -6060063773024699073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_77
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1473
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459c1a3bc99d67a30800000000000000
+      internalID: 4212793768503527764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_78
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1477
+        width: 142
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4a06b5b9e5b7690800000000000000
+      internalID: -7603379524538948402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_79
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1473
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c548363869dbe790800000000000000
+      internalID: -7499661712845945408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_80
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1477
+        width: 54
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4912cb868d00c73a0800000000000000
+      internalID: -6666452418945080940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_81
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1477
+        width: 69
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335cfbc04d6d28590800000000000000
+      internalID: -7673334608850598605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_82
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1475
+        width: 159
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077f982d94bbf2790800000000000000
+      internalID: -7552612124337768592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1242
+        width: 104
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab803a322ba17670800000000000000
+      internalID: 8534790932337298343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_84
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1238
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53fd7f701bfd9d00800000000000000
+      internalID: 981216342113645404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_85
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1242
+        width: 142
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48d3b5292858d490800000000000000
+      internalID: -7721324627377268658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1238
+        width: 126
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfea5f53fbd6f500800000000000000
+      internalID: 429772652783792050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_87
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1242
+        width: 54
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39389cba38dae1030800000000000000
+      internalID: 3467399544156291987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_88
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1239
+        width: 69
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1083d8831732c4920800000000000000
+      internalID: 2975792422972110849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_89
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1238
+        width: 159
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b9d56c8fb132e50800000000000000
+      internalID: 6783296219043961640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1005
+        width: 104
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b445d0267311910800000000000000
+      internalID: 1806285819822230346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_91
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1001
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e274b9d8c6492d0800000000000000
+      internalID: -3272871673740186019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_92
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1005
+        width: 142
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642d4c5da312f1d50800000000000000
+      internalID: 6710118506383594054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1001
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15360b866402eea0800000000000000
+      internalID: -5845104527907867362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_94
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1005
+        width: 54
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1150dd34096dfacb0800000000000000
+      internalID: -4850422358552541935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_95
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1005
+        width: 69
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36d5b369cf7c8cc0800000000000000
+      internalID: -3707447890294745539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_96
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1000
+        width: 159
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04222027b2117b2b0800000000000000
+      internalID: -5568963535926320576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 104
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aa3b5e1f6738f80800000000000000
+      internalID: -8105504123023807908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_98
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 765
+        width: 126
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1642b7ee669a4cc30800000000000000
+      internalID: 4378810997263770721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_99
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 770
+        width: 142
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a81fc989bd1eb990800000000000000
+      internalID: -7368419257613346654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 764
+        width: 126
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6173c719a7e7039d0800000000000000
+      internalID: -2796596303705131242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_101
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 770
+        width: 54
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9585cca2c774c9a00800000000000000
+      internalID: 764564635365693529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_102
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 770
+        width: 69
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81bcae00dc8d2780800000000000000
+      internalID: -8706147679410015861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_103
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 765
+        width: 159
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a1d9ee5e909fa20800000000000000
+      internalID: 3096517101949360780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 104
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bff19814d7617590800000000000000
+      internalID: -7678241729047035979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_105
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 527
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78ddc912ba54c7b0800000000000000
+      internalID: -5204935548349851522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_106
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 533
+        width: 142
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dac4ba4815621930800000000000000
+      internalID: 4112460564749667027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_107
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 529
+        width: 126
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491d0667488ad40b0800000000000000
+      internalID: -5742748662952308332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_108
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 533
+        width: 54
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77684f7c1ec4d6320800000000000000
+      internalID: 2552781096394983031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_109
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 533
+        width: 69
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2488726347d3220800000000000000
+      internalID: 2467255946809197282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_110
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 527
+        width: 159
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6b07bf9178bea80800000000000000
+      internalID: -8436500931286092051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 104
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afafcfb65b8ff6b30800000000000000
+      internalID: 4282915228737141498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 104
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407b022c33645e430800000000000000
+      internalID: 3811529847753193220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_113
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 56
+        width: 127
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89445f11bded0760800000000000000
+      internalID: 7425852705594427786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_114
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 293
+        width: 127
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b311428e29773a50800000000000000
+      internalID: 6500797827793359794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_115
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 60
+        width: 142
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e3c6304a6dd77a0800000000000000
+      internalID: -6377705497366348165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_116
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 298
+        width: 142
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2617a578c453f870800000000000000
+      internalID: 8715402923836118573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_117
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 56
+        width: 126
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153c3631eaf888130800000000000000
+      internalID: 3569260682503504721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_118
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 293
+        width: 126
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1151c61d68be5b5c0800000000000000
+      internalID: -4200192113181453039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_119
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 60
+        width: 54
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22833cbb91da5a850800000000000000
+      internalID: 6387701972530837538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_120
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 298
+        width: 54
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56420533d17090d50800000000000000
+      internalID: 6703897342314030181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_121
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 298
+        width: 69
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf9860f3de6ac8d0800000000000000
+      internalID: -2825323959671021629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_122
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 60
+        width: 126
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6483a08626b6733c0800000000000000
+      internalID: -4379914042198050746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitelevelash_123
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 62
+        width: 159
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff5d331fd58847a0800000000000000
+      internalID: -6392712477905428490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
